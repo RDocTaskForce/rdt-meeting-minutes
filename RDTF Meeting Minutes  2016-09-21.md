@@ -1,7 +1,7 @@
 
 ---
-title: R Documentation Task Force Meeting Notes
-date:  2016-09-21
+title: "R Documentation Task Force Meeting Notes"
+date: "2016-09-21"
 ---
 
 # RDTF Meeting Notes 
