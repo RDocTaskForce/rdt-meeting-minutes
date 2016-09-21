@@ -76,9 +76,6 @@ date: "2016-09-21"
     + Roxygen
 	    - Now supports a plugin system.
 	    - Now supports inline comments
-
-
-## Scratch
 * Martin and Andrew mentioned concerns about the trend of packages to replace in package documentation with website based documentation
 * Duncan mentioned that one way of keeping maintaining the principle of proximity is to create  links from documentation to code and vice versa.  Something that could be achieved in RStudio or Emacs.
 
