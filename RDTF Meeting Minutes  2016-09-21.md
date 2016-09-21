@@ -79,5 +79,8 @@ date: "2016-09-21"
 * Martin and Andrew mentioned concerns about the trend of packages to replace in package documentation with website based documentation
 * Duncan mentioned that one way of keeping maintaining the principle of proximity is to create  links from documentation to code and vice versa.  Something that could be achieved in RStudio or Emacs.
 
+## Tasks
+* Andrew will create a document to list the objects and elements that we need to consider for documentation.
+* Everyone will contribute to the list and we will discuss in two weeks at the next meeting.
 
 > Written with [StackEdit](https://stackedit.io/).
